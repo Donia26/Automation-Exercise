@@ -1,0 +1,19 @@
+{
+  "name": "automation-exercise",
+  "version": "1.0.0",
+  "description": "test exercise using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.1.1",
+    "cypress": "^13.6.3",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-file-upload": "^5.0.8",
+    "jsdoc-cypress-cucumber-plugin": "^1.1.0",
+    "mocha": "^10.4.0"
+  }
+}

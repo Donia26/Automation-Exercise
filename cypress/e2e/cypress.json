@@ -1,0 +1,12 @@
+{
+    "baseUrl": "https://www.automationexercise.com/",
+    "watchForFileChanges": true,
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 60000,
+    "defaultCommandTimeout": 10000,
+    "integrationFolder": "cypress/integration",
+    "pluginsFile": "cypress/plugins/index.js",
+    "supportFile": "cypress/support/index.js"
+  }
